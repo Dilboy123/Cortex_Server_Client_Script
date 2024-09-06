@@ -18,5 +18,7 @@ This script facilitates the transfer of files from Cortex to a PC.
 
    Ensure that the file path points to the correct directory on your machine.
 
+### If you need PowerShell server-side script run the "powershell__Server_v2.ps1" script
+
 --- 
 
