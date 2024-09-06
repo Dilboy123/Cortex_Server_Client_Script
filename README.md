@@ -1,4 +1,4 @@
-# PaloAlto Server Client Script
+# Cortex Server Client Script
 
 This script facilitates the transfer of files from Cortex to a PC.
 
